@@ -1,0 +1,21 @@
+1.Que diferencia hay entre un igual ( = ) y un doble ( == )
+
+Un "=" sirve para igualar una variable y un "==" sirve para comparar si el la variable 
+o el dato son iguales "x" valor.
+
+2. Cuales son los tipos de datos básico de java
+int: representa un numero entero.
+float: representa un numero decimal.
+double: representa un numero decimal.
+boolean: representa un valor entre 0 y 1, se utiliza para validar si algo es verdadero o falso.
+char: representa un caracter.
+
+3. Quién es la empresa que actualmente se encarga de mantener el desarrollo de
+java
+
+Oracle
+
+4. En qué otros campos se puede utilizar java para crear software
+
+Debido a que Java se utiliza para gran variedad de aplicaciones tanto moviles como de escritorio
+se puede utilizar en cajeros automaticos, tarjetas inteligentes, televisores smart, entre otros.
